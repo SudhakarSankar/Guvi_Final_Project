@@ -6,7 +6,7 @@ This repository contains four projects completed as part of the final project fo
 
 Projects
 
-1. E-Commerce Customer Prediction
+# 1. E-Commerce Customer Prediction
 
 Predicts whether an online visitor will convert into a customer based on factors like device type, session type, searches, and other behavioral attributes.
 
@@ -14,7 +14,7 @@ Uses machine learning classification techniques to improve prediction accuracy.
 
 Helps e-commerce businesses understand customer behavior and optimize conversion strategies.
 
-2. Image Processing
+# 2. Image Processing
 
 Performs various image processing techniques, including:
 
@@ -28,7 +28,7 @@ De-blurring
 
 Displays the processed images for comparison and evaluation.
 
-3. Text Processing using NLP
+# 3. Text Processing using NLP
 
 Processes text data from a file and performs essential NLP tasks, including:
 
@@ -44,7 +44,7 @@ Sentiment Analysis
 
 Results are displayed upon button click in a user-friendly interface.
 
-4. Recommendation System
+# 4. Recommendation System
 
 A recommendation system designed for an e-commerce platform.
 
@@ -52,7 +52,7 @@ When a buyer enters a product, the system suggests 5 recommended products based 
 
 Uses collaborative filtering and content-based recommendation techniques to generate recommendations.
 
-Technologies Used
+# Technologies Used
 
 Python
 
@@ -70,7 +70,7 @@ NLTK & Stanza (for NLP tasks)
 
 Jupyter Notebook / VS Code
 
-How to Use
+# How to Use
 
 Clone this repository.
 
@@ -80,6 +80,6 @@ Run the Jupyter Notebook or Python scripts for each project.
 
 Interact with the models and visualize results using Streamlit where applicable.
 
-Conclusion
+# Conclusion
 
 These projects cover a range of practical applications, including customer behavior prediction, image enhancement, NLP-based text processing, and recommendation systems. They demonstrate proficiency in data analysis, machine learning, and interactive application development.
